@@ -17,11 +17,10 @@ At Thomas High School the following changes occurred as a result of removing all
 - % Overall Passing up 25%
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Performance increases dramatically, almost concerningly so. I would recommend further analysis into the removed 9th grade scores. 
-Thomas High School went from one of the worst performing high schools to one of the highest performing high schools. 
+- Performance in all categories(reading and math) increases significantly 
+- Thomas High School went from one of the worst performing high schools to one of the highest performing high schools 
 
 How does replacing the ninth-grade scores affect the following:
-
 
 Math Scores by Grade
 
@@ -45,3 +44,11 @@ Scores by school type
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+Performance across all categories at Thomas High School increases significantly(more than 25% in most categories). I would infer that the 9th grade scores carried the large majority of low test scores for the school.  
+
+Because of the above point, I would recommend further analysis into Thomas High School and specifically into the removed 9th grade scores. I would want to confirm a large number of low scores pulling the school averages down, just to confirm the inference above and to double-check that there isn't an anomaly within the data or in our previous analysis. 
+
+Analysis in performance by school size, school type and school spending varied very little. This is because the removed 9th grade scores from Thomas High School made up only apprioximately 1.5% of test scores district wide. 
+
+Average test scores and passing percentages across the district show little change from removing the scores. This is because the small number of records ~461 scores in each category that were removed out of the approximately 30,000 across the district. 
